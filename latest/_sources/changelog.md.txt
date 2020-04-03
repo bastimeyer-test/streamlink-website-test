@@ -1,6 +1,6 @@
 # Changelog
 
-## streamlink 2020.4.2 (2020-04-02)
+## streamlink 2020.4.3 (2020-04-03)
 
 Test release with real signing and docs deploy keys.
 
